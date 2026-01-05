@@ -1,0 +1,21 @@
+{
+    "name": "6ixminds Command Center",
+    "short_name": "6ixminds",
+    "description": "Internal ERP and operations control system for 6ixminds Labs",
+    "start_url": "/tracker/",
+    "display": "standalone",
+    "background_color": "#0f0f1a",
+    "theme_color": "#6D28D9",
+    "icons": [
+        {
+            "src": "icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
